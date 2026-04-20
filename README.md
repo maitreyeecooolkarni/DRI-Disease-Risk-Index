@@ -103,4 +103,5 @@ These parameters are combined to generate a final **risk level classification**.
 - Long-range wireless communication using LoRa
 - Dashboard visualization using Node-RED
 - Modular and scalable system architecture
+-Cost friendly
 
